@@ -8,4 +8,8 @@ Toute participation au projet est la bienvenue !
 
 # Présentation des données
 
-Le dossier *raw*
+|Colonne         |Sens                           |Exemple                      |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
