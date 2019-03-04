@@ -10,6 +10,15 @@ Toute participation au projet est la bienvenue !
 
 |Colonne         |Sens                           |Exemple                      |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|user_id	|17960	|integer
+|code_postal	|32000	|string
+|commune	|AUCH (32)	|string
+|type_commune	|Urbain	|string
+|nom_departement	|Gers (32)	|string
+|departement	|32	|string
+|sexe	|Homme	|string
+|age	|55-64 ans	|string
+|formation	|?	|string
+|profession	|Employé	|string
+|taille_org	|Plus de 5000	|string
+|position_gj	|Soutient	string
