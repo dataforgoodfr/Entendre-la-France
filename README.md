@@ -8,6 +8,8 @@ Toute participation au projet est la bienvenue !
 
 # Présentation des données
 
+|Table Users
+|----------------|-------------------------------|-----------------------------|
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
 |user_id	       |17960	|integer
@@ -23,5 +25,7 @@ Toute participation au projet est la bienvenue !
 |taille_org	|Plus de 5000	|string
 |position_gj	|Soutient	|string
 
+|Table Answers|
+|----------------|-------------------------------|-----------------------------|
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
