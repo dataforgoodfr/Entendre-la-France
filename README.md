@@ -8,8 +8,8 @@ Toute participation au projet est la bienvenue !
 
 # Présentation des données
 
-|Table Users
-|----------------|-------------------------------|-----------------------------|
+## Table Users
+
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
 |user_id	       |17960	|integer
@@ -25,7 +25,18 @@ Toute participation au projet est la bienvenue !
 |taille_org	|Plus de 5000	|string
 |position_gj	|Soutient	|string
 
-|Table Answers|
-|----------------|-------------------------------|-----------------------------|
+## Table Answers Free
+
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
+|customer_id	|17465	|integer
+|question_id	|DC1	|string
+|answer	|Rendre la politique intéressante	|string
+
+## Table Answers QCM
+
+|Colonne         |Exemple                        |Type                      |
+|----------------|-------------------------------|-----------------------------|
+|customer_id	|17469	|integer
+|question_id	|FI1	|string
+|answer	|1️⃣	|string
