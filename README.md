@@ -8,9 +8,9 @@ Toute participation au projet est la bienvenue !
 
 # Présentation des données
 
-|Colonne         |Sens                           |Exemple                      |
+|Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
-|user_id	|17960	|integer
+|user_id	       |17960	|integer
 |code_postal	|32000	|string
 |commune	|AUCH (32)	|string
 |type_commune	|Urbain	|string
@@ -21,4 +21,7 @@ Toute participation au projet est la bienvenue !
 |formation	|?	|string
 |profession	|Employé	|string
 |taille_org	|Plus de 5000	|string
-|position_gj	|Soutient	string
+|position_gj	|Soutient	|string
+
+|Colonne         |Exemple                        |Type                      |
+|----------------|-------------------------------|-----------------------------|
