@@ -6,9 +6,9 @@ Pour vous lancer, faites un pull du projet et installez les modules du fichier r
 
 Toute participation au projet est la bienvenue !
 
-# Présentation des données
+# Présentation du dataset
 
-## Table Users
+### Table Users
 
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
@@ -25,7 +25,7 @@ Toute participation au projet est la bienvenue !
 |taille_org	|Plus de 5000	|string
 |position_gj	|Soutient	|string
 
-## Table Answers Free
+### Table Answers Free
 
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
@@ -33,10 +33,27 @@ Toute participation au projet est la bienvenue !
 |question_id	|DC1	|string
 |answer	|Rendre la politique intéressante	|string
 
-## Table Answers QCM
+### Table Answers QCM
 
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
 |customer_id	|17469	|integer
 |question_id	|FI1	|string
 |answer	|1️⃣	|string
+
+### Table Matching Questions 
+
+|Colonne         |Exemple                        |Type                      |
+|----------------|-------------------------------|-----------------------------|
+|question_id	|TE11	|integer
+|type	|Libre	|string
+|theme	|Transition écologique	|string
+|title	|🌎Q11 - Que faites-vous aujourd’hui pour protéger l’environnement et/ou que pourriez-vous faire ?	|string
+
+### matching_answers_qcm	example	type
+
+|Colonne         |Exemple                        |Type                      |
+|----------------|-------------------------------|-----------------------------|
+|question_id	|TE1	|integer
+|answer_id	|1️⃣	|string
+|answer_title	|La pollution de l'air	string
