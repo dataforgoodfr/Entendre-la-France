@@ -50,7 +50,7 @@ Toute participation au projet est la bienvenue !
 |theme	|Transition écologique	|string
 |title	|🌎Q11 - Que faites-vous aujourd’hui pour protéger l’environnement et/ou que pourriez-vous faire ?	|string
 
-### matching_answers_qcm	example	type
+### Table Matching Answers QCM
 
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
