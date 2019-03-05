@@ -56,4 +56,4 @@ Toute participation au projet est la bienvenue !
 |----------------|-------------------------------|-----------------------------|
 |question_id	|TE1	|integer
 |answer_id	|1️⃣	|string
-|answer_title	|La pollution de l'air	string
+|answer_title	|La pollution de l'air	|string
