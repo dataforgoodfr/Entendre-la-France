@@ -29,7 +29,7 @@ Toute participation au projet est la bienvenue !
 
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
-|customer_id	|17465	|integer
+|user_id	|17465	|integer
 |question_id	|DC1	|string
 |answer	|Rendre la politique intéressante	|string
 
@@ -37,7 +37,7 @@ Toute participation au projet est la bienvenue !
 
 |Colonne         |Exemple                        |Type                      |
 |----------------|-------------------------------|-----------------------------|
-|customer_id	|17469	|integer
+|user_id	|17469	|integer
 |question_id	|FI1	|string
 |answer	|1️⃣	|string
 
