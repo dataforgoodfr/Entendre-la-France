@@ -4,6 +4,8 @@ Repo public du projet Entendre la France, contenant les données en csv et une b
 
 Pour vous lancer, faites un pull du projet et installez les modules du fichier requirements. Il vous faudra installer Anaconda pour éxécuter les notebooks. Vous pouvez le télécharger ici https://www.anaconda.com/distribution/.
 
+Clique sur [ce lien](Télécharger) pour télécharger les données du grand débat du thème démocratie et ajoute le CSV dans le dossier raw.
+
 Toute participation au projet est la bienvenue !
 
 # Présentation du dataset
